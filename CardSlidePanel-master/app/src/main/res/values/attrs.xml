@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="card">
+        <attr name="bottomMarginTop" format="dimension" />
+        <attr name="yOffsetStep" format="dimension" />
+        <attr name="topMargin" format="dimension"/>
+        <attr name="center_horizontal" format="boolean"/>
+        <attr name="leftMargin" format="dimension"/>
+        <attr name="itemRotation" format="float"/>
+        <attr name="itemRotateX" format="integer"/>
+        <attr name="itemRotateY" format="integer"/>
+        <attr name="duration" format="float"/>
+    </declare-styleable>
+</resources>
