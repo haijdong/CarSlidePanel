@@ -16,4 +16,8 @@ cards
  * itemRotateY 旋转y轴位置
  
 ![image](https://github.com/haijdong/CarSlidePanel/blob/master/AA.gif)
+
+
 更好效果请参考蝶恋网搜索效果。
+
+![image](https://github.com/haijdong/CarSlidePanel/blob/master/show2.gif)
